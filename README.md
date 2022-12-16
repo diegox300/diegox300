@@ -21,7 +21,7 @@
 - 💬 Pergunte-me sobre testes, manual e automático, desde testes exploratórios até smoke test, teste em api, etc...
 - 📫 Contato: diegox300@gmail.com
 - 💰 Pague-me um Café: 11984150044 (Pix)
-- ⚡ Fun fact: Pai de PET, Esportista e atleta.
+- ⚡ Fun fact: Pai de PET, Esportista e Atleta.
 
 <!--
 **diegox300/diegox300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
